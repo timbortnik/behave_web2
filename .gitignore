@@ -1,5 +1,5 @@
 features/environment_secret.py
-#scenario_result/
+scenario_result/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
