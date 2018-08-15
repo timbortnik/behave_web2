@@ -1,7 +1,6 @@
 # Behave Web Selenium demo
 
-CircleCI status on Master:
-![CI](https://circleci.com/gh/timbortnik/behave_web2/tree/master.png)
+[![CircleCI](https://circleci.com/gh/timbortnik/behave_web2.svg?style=svg)](https://circleci.com/gh/timbortnik/behave_web2)
 
 ## Prerequisites
 * Python 3.5, pip
