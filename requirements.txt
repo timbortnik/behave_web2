@@ -3,4 +3,4 @@
 
 behave
 selenium
-chromedriver_installer
+chromedriver_binary
