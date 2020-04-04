@@ -4,9 +4,7 @@
 # ----------------------------------------------------------------------------
 # STEPS:
 # ----------------------------------------------------------------------------
-from behave import given, when, then, use_step_matcher
-
-use_step_matcher("re")
+from behave import given, when, then
 
 
 @given('I am on intu Signup Page')

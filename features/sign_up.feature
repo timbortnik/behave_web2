@@ -1,6 +1,6 @@
-
 Feature: Showing off behave and selenium for intu Signup
 
+@wip
 Scenario: Sign up form elements
     Given I am on intu Signup page
     And I focus on signup form
@@ -14,8 +14,6 @@ Scenario: Sign up form elements
     And I see radio button "Male"
     And I see radio button "Prefer not to say"
     And I see form input "Postcode"
-    And I see radio button "Yes"
-    And I see radio button "No"
     And I see submit button
 
 Scenario: Sign up form check e-mail required

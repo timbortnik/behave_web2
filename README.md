@@ -16,6 +16,11 @@ To run behave features, use command
 
     behave
 
+To run in Pycharm Community, use @wip tag to select scenarios and following configuration:
+
+![screenshot](pycharm_community_run.png "Run/Debug configuration")
+
+
 to see console output, use
 
     behave --no-capture
