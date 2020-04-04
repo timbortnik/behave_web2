@@ -1,6 +1,7 @@
 #pages
 # PYTHON PACKAGE REQUIREMENTS:
 
+wheel
 behave
 selenium
 chromedriver_binary
