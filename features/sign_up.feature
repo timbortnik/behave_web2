@@ -25,7 +25,7 @@ Scenario: Sign up form check e-mail required
     And I fill "Last name" with "Doe"
     And I submit form
     Then I see error text "Please enter your email address"
-    and I see error text "Please enter your birthday"
+    And I see error text "Please enter your birthday"
 
 Scenario: Sign up form submitted
     Given I am on intu Signup page

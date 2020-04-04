@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 
 from .base_page import Page
-from selenium.webdriver.common.keys import Keys
 
 
 class SignupPage(Page):
