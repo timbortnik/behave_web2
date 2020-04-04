@@ -16,6 +16,7 @@ Scenario: Sign up form elements
     And I see form input "Postcode"
     And I see submit button
 
+@wip
 Scenario: Sign up form check e-mail required
     Given I am on intu Signup page
     And I focus on signup form
